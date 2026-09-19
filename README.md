@@ -242,3 +242,5 @@ Engineering Practices Laboratory carpentry work.
 The complete project report is available here:
 
 [Download Project Report](report/ED_Report.pdf)
+[ED_Report(212223060147).pdf](https://github.com/user-attachments/files/32409991/ED_Report.212223060147.pdf)
+
