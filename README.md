@@ -60,6 +60,9 @@ to show the arrangement and three-dimensional form of the organizer.
 7. Wood Screws
 8. Sandpaper and Wood Finish
 
+<img width="620" height="338" alt="image" src="https://github.com/user-attachments/assets/4a491d6c-1c54-43c2-a6a8-89bf1c5c5731" />
+
+
 ---
 
 ## Working Principle
