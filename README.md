@@ -2,7 +2,7 @@
 
 ## Design and Fabrication of a Multipurpose Wooden Desk Organizer
 
-A project developed as part of the Engineering Practices Laboratory – Carpentry/Wood Work.
+A project developed as part of the Engineering Drawing Laboratory – Carpentry/Wood Work.
 
 ## Project Information
 
