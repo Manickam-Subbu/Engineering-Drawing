@@ -159,14 +159,11 @@ the wooden desk organizer.
 It helps in understanding the dimensions, position and proportion of the
 different components.
 
-![Orthographic View](images/front-view.png)
+<img width="940" height="1024" alt="image" src="https://github.com/user-attachments/assets/8b4cfb7f-3d30-4885-852d-7b1deeb1346d" />
 
-### Isometric View
 
-The pictorial/isometric representation provides a three-dimensional view of
-the completed organizer.
+<img width="940" height="1024" alt="image" src="https://github.com/user-attachments/assets/009baee1-adcd-4c7b-80ea-d441d2bc0d55" />
 
-![Isometric View](images/isometric-view.png)
 
 ---
 
